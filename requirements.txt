@@ -1,0 +1,9 @@
+flask
+langchain
+langchain_groq
+langchain_huggingface
+langchain_pinecone
+groq
+pinecone-client
+transformers
+sentence-transformers
